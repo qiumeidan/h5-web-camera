@@ -1,9 +1,9 @@
 {
-  "name": "y",
+  "name": "camera-componets",
   "version": "1.0.0",
   "description": "h5 web camera",
   "author": "qiumeidan",
-  "private": true,
+  "private": false,
   "module": "src/index.js",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
